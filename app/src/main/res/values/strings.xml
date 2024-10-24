@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Variant3</string>
+
+    <string name="continion">Далее</string>
+    <string name="date">Дата:</string>
+    <string name="name">Задача:</string>
+    <string name="yet">Подробная информация</string>
+    <string name="start">Показать</string>
+    <string name="returnb">Добавить задачу</string>
+    <string name="login">Введите логин</string>
+    <string name="password">Введите пароль</string>
+    <string name="newtask">Новая задача</string>
+    <string name="red">Редактировать</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
